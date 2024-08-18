@@ -5,7 +5,7 @@ Deployed on:
 https://customer-churn-prediction-xwptu3brqudenseoruw6zq.streamlit.app/
 ```
 1. Ensure you have Python 3.7+ installed on your system.
-2. Clone this repository and go inside Student-Performance-Indicator folder and open powershell there.
+2. Clone this repository and go inside repo folder and open powershell there.
 3. Install the required packages:
 ```
 $ pip install -r requirements.txt
