@@ -1,4 +1,4 @@
-# Student-Performance-Indicator
+# Customer-Churn-PRediction
 
 Deployed on:
 ```
